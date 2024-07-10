@@ -1,12 +1,11 @@
 ---
-title: About Goldydocs
+title: About Samantha
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs Samantha" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About Samantha" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
 {.mt-5}
 
 {{% /blocks/cover %}}
