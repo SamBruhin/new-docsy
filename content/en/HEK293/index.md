@@ -1,6 +1,6 @@
 ---
 title: About HEK293
-linkTitle: HEK293
+linkTitle: HEK-293
 menu: {main: {weight: 10}}
 ---
 
@@ -53,7 +53,7 @@ HEK293T cells can be adapted to suspension growth in serum-free medium which is 
 
 Since attachment of HEK293T cells to culture surfaces is not very strong, vector production is more difficult to perform in roller bottles and transfection conditions in these devices have to be carefully optimized for keeping cells attached. In this context, Patel et al. could show that the overexpression of alpha-v and beta-3 integrin by HEK293 led to an increased cell adhesion allowing efficient LV vector production in roller bottles. However, this approach requires the use of recombinant HEK293 cells overexpressing integrin.
 
-**Method of production**
+# Method
 
 Very recently a semi-“large-scale” LV vector production system based on the use of hollow fibers has been presented. The hollow fibers are seeded with HEK293T cells, which are then transfected with three plasmids after attachment for 24 hours. The advantage consists in the fact that it is a closed, fully automated culture system with an LV yield equivalent to three CF-10 stacks. This, however, requires that several parallel systems have to be set up for real larger scale productions.
 In the case of HEK293T cells, expansion, transfection, and lentivirus production have been demonstrated at 50-l scale in single-use bioreactors.
