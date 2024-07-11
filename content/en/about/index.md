@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Samantha" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About Me" image_anchor="bottom" height="auto" %}}
 
 {.mt-5}
 
@@ -12,10 +12,7 @@ menu: {main: {weight: 10}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+Hi!  My name is Samantha Bruhin and I am a  is a rising junior at Bucknell University.  I am studying biology with a minor in film.
 
 {{% /blocks/lead %}}
 
