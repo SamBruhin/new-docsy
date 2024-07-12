@@ -3,8 +3,7 @@ title: About HEK293
 linkTitle: HEK-293
 menu: {main: {weight: 10}}
 ---
-
-{{% blocks/cover title="About HEK-293" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About HEK-293" image_anchor="bottom" height="auto" color="primary"%}}
 
 {.mt-5}
 
