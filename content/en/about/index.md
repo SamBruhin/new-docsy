@@ -12,7 +12,7 @@ menu: {main: {weight: 10}}
 
 {{% blocks/lead %}}
 
-Hi! My name is Samantha Bruhin and I am a  is a rising junior at Bucknell University.  I am studying biology with a minor in film.
+Hi! My name is Samantha Bruhin and I am a rising junior at Bucknell University.  I am studying biology with a minor in film.
 
 {{% /blocks/lead %}}
 
