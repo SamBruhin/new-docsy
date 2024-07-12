@@ -25,6 +25,22 @@ Recombinant lentiviral vectors are powerful tools for gene transfer with some ad
 
 {{% /blocks/section %}}
 
+
+{{% blocks/section %}}
+---
+  
+  ## HEK-293 cells, specifically the HEK-293T variant, are frequently used for lentiviral packaging for several reasons:
+   
+  - **Transfection Efficiency**: HEK 293T cells are highly transfectable, meaning they can efficiently take up foreign DNA, such as the plasmids used in lentiviral packaging. This high transfection efficiency is crucial for producing a large quantity of lentiviral particles.
+  - **Presence of SV40 Large T Antigen**: HEK 293T cells express the SV40 large T antigen, which allows for the episomal replication of plasmids containing the SV40 origin of replication. This leads to higher yields of viral proteins necessary for packaging the lentivirus.
+  - **High Viral Titers**: These cells can produce high titers of lentivirus, which is beneficial for experiments requiring high efficiency of gene delivery.
+  - **Broad Tropism of Lentivirus**: Lentiviruses packaged in HEK 293T cells can infect a wide range of cell types, including both dividing and non-dividing cells. This broad tropism makes lentiviruses a versatile tool for gene delivery in various research applications.
+  - **SSafety**: HEK 293T cells help in producing replication-incompetent lentivirus. This is essential for biosafety, as it ensures that the lentivirus cannot replicate on its own after infecting the target cells.
+  - **Well-Characterized**: HEK 293T cells are well-characterized and widely used in research, which means there is a wealth of information and established protocols available for their use in lentiviral packaging.
+
+---
+{{% /blocks/section %}}
+
 {{% blocks/section type="row" %}}
 
 
