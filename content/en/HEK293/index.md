@@ -72,6 +72,8 @@ HEK stands for human embrionic kidney cells as that is where the cell line was d
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
+<img src="production.jpg" style="display: block; margin-left: auto; margin-right: auto;" alt="Description of the image">
+
 
 # Production of Lentiviral Vectors
 HEK293T cells can be adapted to suspension growth in serum-free medium which is of particular interest for large-scale vector productions.
